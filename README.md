@@ -8,7 +8,7 @@
 - `*Telegram, pyrogram*`
 - `*PyGame*`
 - `*Flask, REST API*`
-- `*SQLite*` `*
+- `*SQLite*` *
 - 
   `*## 🔧 Мои Soft Skills:*`
 
