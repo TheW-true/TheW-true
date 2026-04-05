@@ -12,8 +12,8 @@
 
 `*## 📌 Мои проекты:*`
 
-- `*[Flask API для погоды](https://github.com/user/weather-api)*`
-- `*[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
-- `*[Модель предсказания цен](https://github.com/user/prices)*`
+- `*[Flask API для погоды]*`
+- `*[Telegram бот с мини-играми]*`
+- `*[Модель предсказания цен]*`
 
 `*📫 Контакты: [Telegram](https://t.me/@Superbusia225) *`
