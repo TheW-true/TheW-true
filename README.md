@@ -33,5 +33,6 @@
 - `*PyGame*`
 - `*Трудолюбивый, люблю приодолевать трудности*`
 - `*Честный и прост в общении*`
-
+  
+ *## 📫 Контакты: [Telegram](https://t.me/artent234) | [LinkedIn](https://linkedin.com/in/artent234) *`
 
