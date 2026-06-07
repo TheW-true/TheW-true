@@ -1,38 +1,35 @@
-`*Привет! 👋 Я Артём*`
+`*Hello! 👋 I'm Artem*`
 
-`*💡 Python-разработчик, интересуюсь Backend.*`
+`*💡 Python developer, interested in Backend.*`
 
-`*## 🔧 Мои Hard Skills:*`
+`*## 🔧 My Hard Skills:*`
 
-- `*Python, ООП, алгоритмы*`
+- `*Python, OOP, algorithms*`
 - `*Telegram, pyrogram*`
 - `*PyGame*`
 - `*Flask, REST API*`
 - `*SQLite*` 
 - 
-  `*## 🔧 Мои Soft Skills:*`
+`*## 🔧 My Soft Skills:*`
 
-- `*  Общительный и цели устремлённый*`
-- `*Позитивный, готовый помочь*`
+- `*Sociable and goal-oriented*`
+- `*Positive, willing to help*`
 - `*PyGame*`
-- `*Трудолюбивый, люблю приодолевать трудности*`
-- `*Честный и прост в общении*`
+- `*Hardworking, loves to overcome challenges*`
+- `*Honest and easy to communicate*`
 
+`*## 📌 My Projects:*`
 
+- `*[Flask API for weather]*`
+- `*[Telegram bot with [mini-games]*`
+- `*[Price Prediction Model]*`
+- `*## 🔧 My Soft Skills:*`
 
-
-`*## 📌 Мои проекты:*`
-
-- `*[Flask API для погоды]*`
-- `*[Telegram бот с мини-играми]*`
-- `*[Модель предсказания цен]*`
-- `*## 🔧 Мои Soft Skills:*`
-
-- `*  Общительный и цели устремлённый*`
-- `*Позитивный, готовый помочь*`
+- `*Sociable and goal-oriented*`
+- `*Positive, willing to help*`
 - `*PyGame*`
-- `*Трудолюбивый, люблю приодолевать трудности*`
-- `*Честный и прост в общении*`
+- `*Hardworking, loves to overcome challenges*`
+- `*Honest and easy to communicate*`
   
 📫 Контакты: [Telegram](https://t.me/artent234) 
 
